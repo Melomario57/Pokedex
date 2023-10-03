@@ -13,6 +13,8 @@ PokéAPI URL: https://pokeapi.co/
 
 
 Technologies:
+
+
 HTML.
 
 
